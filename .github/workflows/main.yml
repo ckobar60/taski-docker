@@ -1,8 +1,3 @@
-# .github/workflows/main.yml
-
-# Тут задачи тестирования и сборки образа
-# ...
-# Добавляем новую задачу: деплой приложения
 build_and_push_to_docker_hub:
     name: Push Docker image to DockerHub
     runs-on: ubuntu-latest
