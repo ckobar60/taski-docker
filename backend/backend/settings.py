@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://ckobar60.hopto.org/']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', '158.160.3.131','https://ckobar60.hopto.org/']
 
 
 # Application definition
